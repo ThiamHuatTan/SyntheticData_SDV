@@ -1,0 +1,1 @@
+This document describes the improved data processing flow for generating a privacy-compliant synthetic dataset using Microsoft Fabric, PySpark, and SDV (CTGAN). This optimized approach addresses high-cardinality issues and improves CTGAN performance while ensuring privacy compliance (GDPR, PCI-DSS).
